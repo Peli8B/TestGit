@@ -1,0 +1,66 @@
+Arañas negras (Asesinos y Mercenarios)
+La comunidad esmeralda (Druidas)
+La garra de Tülgar (Ladrones, contrabandistas, comerciantes)
+La hermandad oscura (Seguidores de Arandûr)
+La marca de la medianoche(Bardos, actores y musicos)
+La orden de la rosa ensangrentada ()
+La pluma dorada (Alta cuna)
+Los Restauradores del orden y del caos (Clerigos, paladines y guerreros)
+Los bucaneros del craneo partido (Piratas)
+Los guardianes del sello (Elfos)
+Los hijos del ocaso (Humanos)
+Los huerfanos (Rumores)
+Los iniciados (Magos y Hechiceros)
+Los Salvajes (Salvajes)
+Rebelde Amanecer (Rebeldes y forajidos)
+Soldados de la tormenta ()
+Tripulantes de la tempestad (Marineros)
+
+El Chingolo cantor
+
+Nombre: El crimen de un noble
+Lugar: una pequeña ciudad llamada Nawal
+PNJ'S: Asesino, soldados
+Bichos:
+Imagenes: Asesino, hija posadero, 
+Mapas: Mina
+Historia:
+En una pequeña ciudad al noroeste de Hueso Dragón llamada Nawal es asesinado Herbert Hester un noble de gran importancia, hijo de uno de los concejeros del Rey de Hueso Dragon (Artur Hester).
+Sus principales sospechosos pertenecen a un grupo de mercenarios que estan viviendo en la ciudad, mas especificamente en la posada "El chingolo cantor".
+La noche anterior al crimen los mercenarios se reunieron en la gran casona del noble, ya que les habia propuesto una misión. La misión concistia en recuperar un viejo tesoro familiar, el yelmo de uno
+de sus ancestros, robado hacia muy pocos días de su propia casona.
+La victima fue hallada apuñalada varias veces por la daga que pertenecia a uno de los mercenarios, que habia sido robada días atrás. 
+Ahora los mercenarios pueden intentar resolver el crimen para limpiar su nombre o tratar de escapar de la ciudad...
+El verdadero asesino es un viejo compañero de aventuras que ellos creian muerto y que piensa que ellos lo habian traicionado. Él tendrá su guarida en una vieja mina abandonada.
+
+
+Nithyis es una mística tiefling de 280 años.
+
+Ella tiene el pelo largo, liso y dorado y ojos azules.
+
+Ella tiene la piel rugosa, quemada por el sol, rosa.
+
+Ella mide 154 cm (5'0 ") de altura y tiene una constitución atlética.
+
+Ella tiene una cara cuadrada y suave.
+
+Ella tiene una perforación inacabada en la oreja derecha.
+
+Rasgos de personalidad
+Ella adora discretamente a Lathander, dios de la primavera, el amanecer, el nacimiento, la juventud, la vitalidad, el atletismo. (Buen neutral)
+
+Ella muestra muy poca empatía hacia los demás.
+
+A ella no le importan los riesgos ni las probabilidades.
+
+Ella recoge rocas lindas.
+
+Puntajes de habilidad
+Fuerza 7 [-1]
+Destreza 9 [0]
+Constitución 8 [-1]
+Intelecto 18 [+4]
+Sabiduría 18 [+4]
+Carisma 13 [+2]
+
+
